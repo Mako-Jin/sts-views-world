@@ -1,9 +1,12 @@
+import MapsView from "/@/pages/maps";
 
-const ParallelWorldView = () => {return (
-    <>
-        ParallelWorldView
-    </>
-);
+const ParallelWorldView = () => {
+    
+    return (
+        <>
+            <MapsView />
+        </>
+    );
 
 }
 
