@@ -105,3 +105,11 @@ Parameters 参数
 |trackResize|	boolean|	true|	若true，则地图将在浏览器窗口调整大小时自动调整大小
 |transformRequest|	RequestTransformFunction|	null|	在 Map 请求外部 URL 之前运行回调
 |worldview|	string|	null	|某些争议边界的呈现方式
+
+
+### 颜色对照
+
+|色值|描述|
+|---|---|
+|#66CCFF|天蓝色|
+|#00456b|海蓝色|
